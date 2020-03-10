@@ -1,0 +1,46 @@
+{
+    "deflections": {
+        "AX": 0.0,
+        "CDD": 0.0,
+        "H1": 0.0,
+        "H2": 0.0,
+        "L1": 0.0,
+        "L2": 0.0
+    },
+    "gains": {
+        "AX": 0.974572399547281,
+        "CDD": 0.0,
+        "H1": 0.964587432104432,
+        "H2": 0.974448943817972,
+        "L1": 0.977582014599581,
+        "L2": 0.966545543595328
+    },
+    "settings": [
+        {
+            "electronenergy": 40.2,
+            "extractionlens": 1.0,
+            "ionrepeller": 10.0,
+            "operatingvoltage": 618.0,
+            "ysymmetry": 50.0,
+            "zfocus": 70.0,
+            "zsymmetry": 6.0
+        },
+        {
+            "AX": 454.0,
+            "CDD": 0.0,
+            "H1": 0.0,
+            "H2": 0.0,
+            "L1": 0.0,
+            "L2": 0.0
+        },
+        {
+            "current": 200.0,
+            "ramp_period": 1.0,
+            "ramp_step": 10.0
+        },
+        {
+            "mftable": "argon"
+        }
+    ],
+    "spectrometer": {}
+}
